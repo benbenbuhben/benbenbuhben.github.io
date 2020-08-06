@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(205,145,65);
+  font-family: 'Cedarville Cursive', cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.haiku-wrapper {
+ font-size: 24px;
+ text-align: center;
+}
